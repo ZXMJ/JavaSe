@@ -41,7 +41,7 @@ public class A001Collection方法概述 {
 		 * size()
 		 * contain():使用的equals()方法判断是否存在，可以重写equals()方法来控制
 		 * containAll():只比较是否存在元素，不比较顺序
-		 * isEmppty()
+		 * isEmpty()
 		 * clear()
 		 */
 		System.out.println(col1.contains(p1));
