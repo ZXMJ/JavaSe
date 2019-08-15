@@ -1,10 +1,13 @@
-package com.java高级;
+package com.java;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 import org.junit.Test;
+
+import com.java高级.ProxyDao;
+import com.java高级.ProxyDaoImpl;
 
 public class F008Reflect反射之proxy动态代理 {
 	final ProxyDao proxyDao=new ProxyDaoImpl();

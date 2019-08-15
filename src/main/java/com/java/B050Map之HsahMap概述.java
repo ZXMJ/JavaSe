@@ -1,4 +1,4 @@
-package com.java高级;
+package com.java;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -10,7 +10,7 @@ import java.util.Map.Entry;
 import java.util.Properties;
 import java.util.Set;
 
-public class A005Map之HsahMap概述 {
+public class B050Map之HsahMap概述 {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException {
 		/**

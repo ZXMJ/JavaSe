@@ -1,4 +1,4 @@
-package com.java高级;
+package com.java;
 
 public class H003Thread线程之线程同步 implements Runnable {
 

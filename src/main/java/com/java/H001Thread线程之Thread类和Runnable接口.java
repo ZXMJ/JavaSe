@@ -1,4 +1,4 @@
-package com.java高级;
+package com.java;
 
 public class H001Thread线程之Thread类和Runnable接口 {
 	int i=0;

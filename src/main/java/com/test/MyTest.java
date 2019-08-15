@@ -1,5 +1,7 @@
 package com.test;
 import org.junit.Test;
+
+import com.pojo.Person;
 public class MyTest {
 
 	@Test

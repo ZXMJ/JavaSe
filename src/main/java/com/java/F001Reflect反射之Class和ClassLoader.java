@@ -1,8 +1,10 @@
-package com.java高级;
+package com.java;
 
 import java.io.InputStream;
 
-import org.junit.*;;
+import org.junit.*;
+
+import com.java高级.Person;;
 
 public class F001Reflect反射之Class和ClassLoader {
 	/**

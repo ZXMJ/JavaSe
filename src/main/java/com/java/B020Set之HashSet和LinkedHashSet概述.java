@@ -1,10 +1,10 @@
-package com.java高级;
+package com.java;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class A002Set之HashSet和LinkedHashSet概述 {
+public class B020Set之HashSet和LinkedHashSet概述 {
 	
 	public static void main(String[] args) {
 		Set<HashSetPerson> set=new LinkedHashSet<HashSetPerson>();

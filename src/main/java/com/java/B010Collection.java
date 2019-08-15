@@ -1,10 +1,10 @@
-package com.java高级;
+package com.java;
 
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 
-public class A001Collection方法概述 {
+public class B010Collection {
 	public static void main(String[] args) {
 		Collection<CollectionPerson> col1=new ArrayList<CollectionPerson>();
 		Collection<CollectionPerson> col2=new ArrayList<CollectionPerson>();

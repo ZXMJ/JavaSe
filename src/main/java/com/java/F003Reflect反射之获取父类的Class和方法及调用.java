@@ -1,6 +1,8 @@
-package com.java高级;
+package com.java;
 import java.lang.reflect.Method;
 import org.junit.Test;
+
+import com.java高级.Student;
 public class F003Reflect反射之获取父类的Class和方法及调用 {
 	
 	@Test

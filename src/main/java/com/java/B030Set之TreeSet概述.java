@@ -1,10 +1,10 @@
-package com.java高级;
+package com.java;
 
 import java.util.Comparator;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class A003Set之TreeSet概述 {
+public class B030Set之TreeSet概述 {
 	public static void main(String[] args) {
 		Set<TreeSetPerson> set=new TreeSet<TreeSetPerson>();
 		

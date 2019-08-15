@@ -1,4 +1,4 @@
-package com.java高级;
+package com.java;
 
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;

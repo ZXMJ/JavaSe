@@ -1,4 +1,4 @@
-package com.java高级;
+package com.java;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

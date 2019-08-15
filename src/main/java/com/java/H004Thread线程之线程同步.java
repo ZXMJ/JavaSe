@@ -1,4 +1,4 @@
-package com.java高级;
+package com.java;
 
 import com.test.ThreadTest;
 

@@ -1,4 +1,4 @@
-package com.java高级;
+package com.java;
 
 public class Dao<T,P> {
 	

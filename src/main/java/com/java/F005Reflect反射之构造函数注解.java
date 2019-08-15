@@ -1,9 +1,11 @@
-package com.java高级;
+package com.java;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 import org.junit.Test;
+
+import com.java高级.Person;
 
 public class F005Reflect反射之构造函数注解 {
 

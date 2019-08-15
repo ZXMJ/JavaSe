@@ -1,8 +1,10 @@
-package com.java高级;
+package com.java;
 
 import java.lang.reflect.Method;
 
 import org.junit.Test;
+
+import com.java高级.Person;
 
 public class F002Reflect反射之获取和调用类定义和继承的方法 {
 

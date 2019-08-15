@@ -1,4 +1,4 @@
-package com.java高级;
+package com.java;
 
 public class H002Thread线程之yield和sleep和join和interrupt和isLive方法  extends Thread{
 	public static void main(String[] args) {

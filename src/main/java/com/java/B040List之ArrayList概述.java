@@ -1,11 +1,11 @@
-package com.java高级;
+package com.java;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
 
-public class A004List之ArrayList概述 {
+public class B040List之ArrayList概述 {
 
 	public static void main(String[] args) {
 		List<ListPerson> list=new ArrayList<ListPerson>();

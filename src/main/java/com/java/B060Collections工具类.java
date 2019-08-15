@@ -1,10 +1,10 @@
-package com.java高级;
+package com.java;
 
 import org.junit.Test;
 
 
 
-public class A006Collections工具类 {
+public class B060Collections工具类 {
 
 	/**
 	 * 反射小结:
